@@ -1,0 +1,52 @@
+body{
+    text-align: center;
+
+
+}
+#women{
+    vertical-align: text-bottom;
+    float:left;
+}
+
+.intro{
+    background-color:aliceblue;
+} 
+.quote{
+   color: whitesmoke;
+    background-color:black;
+   
+}
+.resume{
+    background-color:white;
+    text-align: left;
+    float: left;
+}
+ .lan{
+    flex-direction: left;
+ }
+ .nat{
+    flex-direction: right;
+ }
+
+.additional{
+    background-color: black;
+    height:900px;
+    justify-items: center;
+    flex-direction: row;
+    color: aliceblue;
+}
+.skills{
+    background-color: white;
+    color: black;
+    
+}
+.contact{
+    color: aliceblue;
+    background-color: black;
+}
+#course{
+    justify-items: left;
+}
+#language{
+    justify-items: right;
+}
